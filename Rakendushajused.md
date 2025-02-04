@@ -6,12 +6,20 @@
 - Võtab/loeb sisendit (riistvara).
 - Riistvara vaheline suhtlus.
 
+### Kuidas näha arvuti riistvara:
 - Settings -> System -> About (näitab device spec)
-- 3 Admesruktuuri: list, stack, map, dictionary
 
+### Kolm andme struktuuri:
+- list 
+- stack 
+- dictionary
+
+### Lühendi tähendused:
 - Software Developer Kit (SDK)
 - Application Programming Interface (API)
 
-- Networking (IP), lokaalne OS tasemel (shared memory)
+Klient algselt saadab päringu / alustab suhtlust.
+
+Serializing, deserializing
 
 
